@@ -7,7 +7,7 @@
 		<relativePath>scala_parent</relativePath>
 	</parent>
 
-	<artifactId>net.adamcin.osgi.scala.reactor</artifactId>
+	<artifactId>net.adamcin.osgi.scala_reactor</artifactId>
 	<packaging>pom</packaging>
 
 	<modules>
